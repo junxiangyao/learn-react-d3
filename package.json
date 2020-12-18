@@ -1,6 +1,6 @@
 {
   "name": "my-d3-app",
-  "homepage": ".",
+  "homepage": "http://junxiangyao.github.io/learn-react-d3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
