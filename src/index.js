@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import PieChart from './PieChart';
+import BarChart from './BarChart';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <PieChart/>
+    <BarChart/>
   </React.StrictMode>,
   document.getElementById('root')
 );
